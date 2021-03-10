@@ -1,6 +1,6 @@
 # Hello World 👋
 
-#### Hey my name is Henrique Lebre, and i have 23 years.
+#### Hey my name is Henrique Lebre, and i'am 23 years old.
 
 - 🌎 I'm live in Porto Velho/RO - Brazil.
 - 📖 I'm currently study about Data Science.
