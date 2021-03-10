@@ -2,10 +2,10 @@
 
 #### Hey my name is Henrique Lebre, and i have 23 years.
 
-🌎 I'm live im Porto Velho/RO - Brazil.
-📖 I'm currently study about Data Science.
-🔭 I’m currently working on my portifolio
-🌱 I’m currently learning about Data Science and Python
+- 🌎 I'm live im Porto Velho/RO - Brazil.
+- 📖 I'm currently study about Data Science.
+- 🔭 I’m currently working on my portifolio
+- 🌱 I’m currently learning about Data Science and Python
 
 Reach out! 👇
 
