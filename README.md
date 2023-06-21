@@ -9,4 +9,4 @@ Reach out! 👇
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Lebre-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-lebre/)](https://www.linkedin.com/in/henrique-lebre/) 
-[![Gmail Badge](https://img.shields.io/badge/-lebre.henrique@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lebre.henrique@gmail.com)](mailto:lebre.henrique@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-henriquelebredev@hotmail.com-6633cc?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:henriquelebredev@hotmail.com)](henriquelebredev@hotmail.com)
