@@ -1,9 +1,6 @@
-# Hello, I'm Henrique Lebre! 👋
 
 ## About Me
 
-- My name is Henrique Lebre.
-- I'm 26 years old.
 - I live in Brazil.
 - I work primarily as a Desktop Applications developer.
 - I mostly program in XHarbour.
