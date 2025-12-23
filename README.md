@@ -1,14 +1,25 @@
+# Henrique Lebre
 
-## About Me
+I build things where **old systems meet modern APIs** — legacy ERP integration, incremental modernization, and backend engineering.
 
-- I live in Brazil.
-- I work primarily as a Desktop Applications developer.
-- I mostly program in XHarbour.
-- I'm also currently studying Python and .NET.
-- In my free time, I enjoy playing tabletop RPGs whenever possible. 🎲
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-henrique--lebre-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lebre/)
+[![GitHub](https://img.shields.io/badge/@HenriqueLebre-181717?logo=github&logoColor=white)](https://github.com/HenriqueLebre)
 
-## Contact Me
+## What I like working on
+- 🧱 **Legacy modernization** (Strangler Fig style, business-continuity friendly)
+- ⚙️ **.NET 8 / C#** APIs (Clean Architecture, CQRS, auth, security)
+- ☁️ **Cloud-ready** design (health checks, env-based config, deploy-friendly apps)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Lebre-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-lebre/)](https://www.linkedin.com/in/henrique-lebre/) 
+## Featured
+- **ERP Modernization Portfolio (Legacy → .NET 8)**  
+  https://github.com/HenriqueLebre/erp-modern-core  
+  _JWT auth, PBKDF2 hashing, rate limiting, health endpoints, and a legacy HTTP wrapper._
 
-Feel free to connect, or just say hello! 😄
+## Toolbox
+**Backend:** .NET 8, C#, ASP.NET Core, REST, JWT  
+**Legacy:** XHarbour, Clipper, FiveWin  
+**Data:** PostgreSQL, SQL  
+**Dev:** Git, Docker, testing (WIP), CI/CD (WIP)
+
+## Elsewhere
+- LinkedIn: https://www.linkedin.com/in/henrique-lebre/
