@@ -16,10 +16,10 @@ I build things where **old systems meet modern APIs** — legacy ERP integration
   _JWT auth, PBKDF2 hashing, rate limiting, health endpoints, and a legacy HTTP wrapper._
 
 ## Toolbox
-**Backend:** .NET 8, C#, ASP.NET Core, REST, JWT  
+**Backend:** .NET 8, C#, ASP.NET Core, REST, JWT, Python
 **Legacy:** XHarbour, Clipper, FiveWin  
 **Data:** PostgreSQL, SQL  
-**Dev:** Git, Docker, testing (WIP), CI/CD (WIP)
+**Dev:** Git, Docker, testing (WIP), CI/CD (WIP), AWS
 
 ## Elsewhere
 - LinkedIn: https://www.linkedin.com/in/henrique-lebre/
