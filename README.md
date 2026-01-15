@@ -21,11 +21,5 @@ I build things where **old systems meet modern APIs** — legacy ERP integration
 **Data:** PostgreSQL, SQL  
 **Dev:** Git, Docker, testing (WIP), CI/CD (WIP), AWS
 
-### 📊 My GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLebre&layout=compact&langs_count=7&theme=radical)
-
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueLebre&show_icons=true&theme=radical)
-
 ## Elsewhere
 - LinkedIn: https://www.linkedin.com/in/henrique-lebre/
