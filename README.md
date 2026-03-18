@@ -49,12 +49,12 @@ I build things where **old systems meet modern APIs** — legacy ERP integration
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriqueLebre&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLebre&layout=compact&theme=github_dark&hide_border=true" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueLebre&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HenriqueLebre&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueLebre&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HenriqueLebre&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-[![Henrique's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueLebre&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
