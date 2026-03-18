@@ -54,6 +54,8 @@ I build things where **old systems meet modern APIs** — legacy ERP integration
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HenriqueLebre&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
+[![Henrique's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueLebre&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
