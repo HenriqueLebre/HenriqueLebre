@@ -73,3 +73,5 @@ I build things where **old systems meet modern APIs** — legacy ERP integration
 *When AFK: tabletop RPGs 🎲, indie music 🎵 & all things nerd.*
 
 </div>
+
+Academic profile: https://github.com/LebrinLabs
